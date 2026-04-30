@@ -1,0 +1,14 @@
+C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\deps\serde-8aa5f0cab74e956f.d: C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\build\serde-058ad2b9238e1512\out/private.rs
+
+C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\deps\libserde-8aa5f0cab74e956f.rlib: C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\build\serde-058ad2b9238e1512\out/private.rs
+
+C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\deps\libserde-8aa5f0cab74e956f.rmeta: C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\build\serde-058ad2b9238e1512\out/private.rs
+
+C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\grom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\grom\Documents\Patcher\dll_stub\target\x86_64-pc-windows-msvc\release\build\serde-058ad2b9238e1512\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\grom\\Documents\\Patcher\\dll_stub\\target\\x86_64-pc-windows-msvc\\release\\build\\serde-058ad2b9238e1512\\out
